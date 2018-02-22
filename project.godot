@@ -10,7 +10,8 @@ config_version=3
 
 [application]
 
-config/name="EECF"
+config/name="1"
+run/main_scene="res://Control.tscn"
 config/icon="res://icon.png"
 
 [rendering]
